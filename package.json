@@ -1,0 +1,18 @@
+{
+  "name": "testero",
+  "version": "1.0.0",
+  "description": "El señor de los testeos",
+  "main": "bot.js",
+  "author": "Agathos5205",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.1.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!hallo"
+  },
+  "license": "ISC"
+}
